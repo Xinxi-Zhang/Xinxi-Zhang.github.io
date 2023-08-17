@@ -9,37 +9,12 @@ nav_order: 5
 
 ### Courses Taken
 ##### Fall 2022                                           
--  CS 501  [Mathematical Foundations of Data Science](https://sites.rutgers.edu/wes-cowan/cs-501-mathematical-foundations-of-computer-science/) by Charles Cowan.
+- CS 501  [Mathematical Foundations of Data Science](https://sites.rutgers.edu/wes-cowan/cs-501-mathematical-foundations-of-computer-science/) by Charles Cowan.
     - <small>Professor Cowan's course was instrumental in shaping my mathematical foundation. His exceptional teaching profoundly improved my understanding, for which I'm truly grateful.
-
-##### Fall 2022                                        
 - CS 512  [Data Structures and Algorithms](https://www.cs.rutgers.edu/academics/graduate/m-s-program/course-synopses/course-details/16-198-512-introduction-to-data-structures-and-algorithms) by Prof. Antonio Miranda.
+- Stat 581  [Probability and Statistical Inference for Data Science](https://msds-stat.rutgers.edu/msds-academics/msds-coursedesc/338-16-954-581-probability-and-statistical-theory-for-data-science-3) by Prof. Michael LuValle.
 
-##### Fall 2021                                           
--  CMSC730  [Interactive Technologies in Human-Computer Interaction](http://smartlab.cs.umd.edu/CMSC730/) by Prof. Huaishu Peng.
--  CMSC828Z [Just Machine Learning](https://docs.google.com/document/d/1o4Nrw9RpFpiXKeuvKF01yzKVTmNBI_CKo3LLALoVoSM/edit) by Prof. Hal Daumé III.
+##### Fall 2022                                           
+- CS 533  [Natural Language Processing](https://www.cs.rutgers.edu/academics/graduate/m-s-program/course-synopses/course-details/16-198-533-natural-language-processing) by Karl Stratos.
+- CS 534  [Computer Vision](https://www.cs.rutgers.edu/academics/graduate/m-s-program/course-synopses/course-details/16-198-533-natural-language-processing) by Prof. Ahmed Elgammal.
 
-##### Spring 2021                                         
--  CMSC764  [Advanced Numerical Optimization](https://www.cs.umd.edu/~tomg/cmsc764_2021/) by Prof. Tom Goldstein.    
--  CMSC828L [AI and Existential Threats to Civilization](https://piazza-syllabus.s3.amazonaws.com/kjyt679x25a30b/Syllabus.html?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAR6AWVCBX7K73BDSN%2F20230705%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230705T221735Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Security-Token=IQoJb3JpZ2luX2VjELn%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJHMEUCIEb26z84UOvVdXf2yp7lFoMhOi4VnnPL7Rgz9d%2BgzC9rAiEA9UbEjezkEF9UhxHjwcsNlwk%2B9SoRw55%2BfEVL89%2FUvskqsQUIMRAAGgwxMzMxOTE1MDM5ODMiDByBgnzia3txJ%2FNc3iqOBVhKcj8cuVsDuwSucirFihP%2Fh59enpdaxjOOD9ol7wmwl4bbHxHGRrq35yBWgS2UE31WMh5bSCQ4lXFyPYGSqyjTeiPkxt8r1%2FcQOUbTjhF%2B%2FRsbBuCoAjtyA4VUu%2FBDYeeZ70%2FwdhRyMF1UfF6ySW2MCMxd8kRSR55Mxt%2FO%2Fa13M4dCKYsJ5mOc2xaajXAGudU0UPJqu9re8vimsWT2hf5Wt%2BQ5JF8AWXcLlBZTZa%2FbQbTQZA8CzyRJOsf9mOxBnyxeqZA3N5poCD4rpS98Y7iv2l0%2BxnMSxU2tRT20cx2ZFMINqUk5oluUWW18hL4gyZwYr22Lz2PDPdNkd7E%2BBywNyM%2FgtwGXCNz3%2B8dyn1mkeqeoMIm6OLg4VIbjrjW8efHTq%2FVQBoIon%2BbOTRdtmtTJzgcqSf0YPp0iJCh9K%2FYfAIGAMIEbrzq9a0EaDQ6Rc0tFduEM8wFX2%2B5qKK4x9%2BuUcCCopq0NJBbPm6gUP%2Fwb9vw4xIJZlqYSDXW2EAHfWMo%2BWOb4%2Fr0aq1dAuZV8QWzc%2BlKV7YKhMZhOlgyFTOlYgudjayPYDWR8IhrOZSeors7Q8tikNA1dKMmRxDAVLQR327oHAHmjIMIlOmZ5ID3qZyiPwsdB6Dq7dTpBnyr3NWJaWnChFU50NE7BpzBhWipiczLv1PLag2jrrp5SxSzzKfPAhKLymPJQbLVueCdRL%2BlkJ70N59umJJJjBTnNe0e%2Bi2T804hTJr8zwQrWYee9pOoN6JUQey3cEMJqGhL%2BRN4Ft3G3RU1ozy3CorNZOXoW%2BaHafIfLOggSFQFrDEmk6z4W1u48qCxenSrqWtg5M4uN2PZdbwonjSwcbLsDlNUv96PlYXxpktbGXvJzxzCer5alBjqxAW9mWQE3oZeVRORg6b2AjX1KabbLqkkqQ55sqaVGzG%2FTVcIYNjwVwNhzwnhjvRcIChAANLvSo2Ttpgc3SWt5uV04xySXxCyxrUiX0kQgPpXYXBspeHb%2BKHT69zVEW3SZJFjtqr8FITNWF2vFpoFbGX95oEzX99tSOujINTNeaw4dvfKrQ5LhqY7RTGDB%2BaIQIAJ64ncx9Ex6ZeN8VlEp7lvFAEo1kORK8%2Bth3o9%2FqSIqog%3D%3D&X-Amz-Signature=c68ebf7d375beb2009a50f234c08742563e77687fa241103323cd576b3632e19)  by Prof. David Jacobs.
-    - <small>This was a one time course and a different course is taught with the course number.
-
-##### Fall 2020                                         
--  CMSC828I  [Advanced Techniques in Visual Recognition and Learning](https://www.cs.umd.edu/class/fall2020/cmsc828i/) by Prof. Abhinav Shrivastava.
--  CMSC828W  [Foundations of Deep Learning](http://www.cs.umd.edu/class/fall2020/cmsc828W/) by Prof. Soheil Feizi.  
-
-<br><br>
-
-
-
-
-
-    
-
-   
-
-   
-
-     
-
-   
