@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: "<b>Master student</b>,  <a href='https://www.cs.rutgers.edu/' target='_blank'>Rutgers University</a>  <br><b>Previously</b>: <a href='https://www.neu.edu.cn/' target='_blank'>Northeastern University (China)</a> | <a href='https://www.vip.com/' target='_blank'>Vipshop (NYSE: VIPS)</a><br> <b>Email:</b> <span style='color: var(--global-highlight-color);'>cqueenccc AT gmail.com</span> | <span style='color: var(--global-highlight-color);'>xz657 AT rutgers.edu</span>"
+subtitle: "<div class="about-content"><b>Master student</b>,  <a href='https://www.cs.rutgers.edu/' target='_blank'>Rutgers University</a>  <br><b>Previously</b>: <a href='https://www.neu.edu.cn/' target='_blank'>Northeastern University (China)</a> | <a href='https://www.vip.com/' target='_blank'>Vipshop (NYSE: VIPS)</a><br> <b>Email:</b> <span style='color: var(--global-highlight-color);'>cqueenccc AT gmail.com</span> | <span style='color: var(--global-highlight-color);'>xz657 AT rutgers.edu</span></div>"
 
 
 profile:
@@ -24,7 +24,7 @@ social: true  # includes social icons at the bottom of the page
     text-align: justify;
 }
 
-a {
+.about-content a {
     text-decoration: underline;
 }
 
@@ -34,6 +34,7 @@ h3 {
 }
 
 </style>
+<div class="about-content">
 <h3>About Me</h3>
 
 <p class="text-justify">
@@ -56,5 +57,6 @@ h3 {
 </p>
 <br>
 <br>
+</div>
 
 

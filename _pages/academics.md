@@ -2,7 +2,7 @@
 layout: page
 permalink: /academics/
 title: academics
-description: Academic courses and teachings during my PhD.
+description: Academic courses and teachings during my Master.
 nav: true
 nav_order: 5
 ---
@@ -29,15 +29,6 @@ nav_order: 5
 -  CMSC828W  [Foundations of Deep Learning](http://www.cs.umd.edu/class/fall2020/cmsc828W/) by Prof. Soheil Feizi.  
 
 <br><br>
-### Teaching Assistantships
-##### Spring 2022
-- CMSC351  [Introduction to Algorithms](http://www.math.umd.edu/~immortal/CMSC351/) by Dr. Justin Wyss-Gallifent and Erika Melder.
-
-##### Fall 2021
-- CMSC474  [Introduction to Computational Game Theory](https://www.cs.umd.edu/~nau/classes/CMSC-474-syllabus.pdf) by Prof. Dana Nau.
-
-##### Spring 2021
-- CMSC472  [Introduction to Deep Learning](https://www.cs.umd.edu/class/spring2021/cmsc472/) by Prof. Abhinav Shrivastava.
 
 
 
