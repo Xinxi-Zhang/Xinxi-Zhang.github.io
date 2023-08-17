@@ -17,4 +17,3 @@ nav_order: 5
 ##### Fall 2022                                           
 - CS 533  [Natural Language Processing](https://www.cs.rutgers.edu/academics/graduate/m-s-program/course-synopses/course-details/16-198-533-natural-language-processing) by Karl Stratos.
 - CS 534  [Computer Vision](https://www.cs.rutgers.edu/academics/graduate/m-s-program/course-synopses/course-details/16-198-533-natural-language-processing) by Prof. Ahmed Elgammal.
-
