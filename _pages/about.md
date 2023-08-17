@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: "<div class="about-content"><b>Master student</b>,  <a href='https://www.cs.rutgers.edu/' target='_blank'>Rutgers University</a>  <br><b>Previously</b>: <a href='https://www.neu.edu.cn/' target='_blank'>Northeastern University (China)</a> | <a href='https://www.vip.com/' target='_blank'>Vipshop (NYSE: VIPS)</a><br> <b>Email:</b> <span style='color: var(--global-highlight-color);'>cqueenccc AT gmail.com</span> | <span style='color: var(--global-highlight-color);'>xz657 AT rutgers.edu</span></div>"
+subtitle: "<div class='about-content'><b>Master student</b>,  <a href='https://www.cs.rutgers.edu/' target='_blank'>Rutgers University</a>  <br><b>Previously</b>: <a href='https://www.neu.edu.cn/' target='_blank'>Northeastern University (China)</a> | <a href='https://www.vip.com/' target='_blank'>Vipshop (NYSE: VIPS)</a><br> <b>Email:</b> <span style='color: var(--global-highlight-color);'>cqueenccc AT gmail.com</span> | <span style='color: var(--global-highlight-color);'>xz657 AT rutgers.edu</span></div>"
 
 
 profile:

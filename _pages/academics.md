@@ -8,12 +8,12 @@ nav_order: 5
 ---
 
 ### Courses Taken
-##### Spring 2023                                          
-- CMSC828A  [Machine Learning Paradigms](https://docs.google.com/spreadsheets/d/1Fw1RbQ2hFLOLfh9VIXFD9aO1xH1087CaKWGmzYWLvpQ) by Prof. Tianyi Zhou. 
-    - <small>It was officially named Fantastic Machine Learning Paradigms and Where to use Them!
-
 ##### Fall 2022                                           
--  CMSC733  [Computer Processing of Pictorial Information](https://jbhuang0604.github.io/#teaching) by Prof. Jia-Bin Huang.
+-  CS 501  [Mathematical Foundations of Data Science](https://sites.rutgers.edu/wes-cowan/cs-501-mathematical-foundations-of-computer-science/) by Charles Cowan.
+    - <small>Professor Cowan's course was instrumental in shaping my mathematical foundation. His exceptional teaching profoundly improved my understanding, for which I'm truly grateful.
+
+##### Fall 2022                                        
+- CS 512  [Data Structures and Algorithms](https://www.cs.rutgers.edu/academics/graduate/m-s-program/course-synopses/course-details/16-198-512-introduction-to-data-structures-and-algorithms) by Prof. Antonio Miranda.
 
 ##### Fall 2021                                           
 -  CMSC730  [Interactive Technologies in Human-Computer Interaction](http://smartlab.cs.umd.edu/CMSC730/) by Prof. Huaishu Peng.
