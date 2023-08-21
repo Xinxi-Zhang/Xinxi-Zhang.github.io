@@ -18,3 +18,6 @@ nav_order: 5
 #### Spring 2023                                           
 - CS 533  [Natural Language Processing](https://www.cs.rutgers.edu/academics/graduate/m-s-program/course-synopses/course-details/16-198-533-natural-language-processing) by Karl Stratos.
 - CS 534  [Computer Vision](https://www.cs.rutgers.edu/academics/graduate/m-s-program/course-synopses/course-details/16-198-533-natural-language-processing) by Prof. Ahmed Elgammal.
+
+#### Fall 2023                                           
+- COG SCI 500  [ProSeminar in Cognitive Science](https://psych.rutgers.edu/course-syllabi/468-500-proseminarf-in-cog-science) by Prof. Pernille Hemmer.
