@@ -7,7 +7,15 @@ nav: true
 nav_order: 5
 ---
 
-### Courses Taken
+### Teaching
+
+#### Fall 2023 
+- CS 210 [Data management for Data Science](https://www.cs.rutgers.edu/academics/undergraduate/course-synopses/course-details/01-198-210-data-management-for-data-science)
+    - Teaching Assistant
+- CS 536 [Machine Learning](https://www.cs.rutgers.edu/academics/graduate/m-s-program/course-synopses/course-details/16-198-536-machine-learning)
+    - Grader 
+
+### Courses
 
 #### Fall 2022                                           
 - CS 501  [Mathematical Foundations of Data Science](https://sites.rutgers.edu/wes-cowan/cs-501-mathematical-foundations-of-computer-science/) by Charles Cowan.
