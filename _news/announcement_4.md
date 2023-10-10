@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Started my new Teaching Assistant for CS 210 (Data Management for Data Science) at Rutgers University.
+Started my new Teaching Assistant for CS 210 (Data Management for Data Science).
