@@ -3,9 +3,9 @@ layout: page
 title: Point-Bert
 description: Refining Point Cloud Semantic Segmentation with P2Net
 img: assets/img/pointbert.png
-redirect: https://github.com/Xinxi-Zhang/DreamBooth-Stable-Diffusion
+redirect: https://github.com/vishal929/Point-Bert-SemanticKitti
 importance: 2
-category: Researchß
+category: Research
 ---
 
 Every project has a beautiful feature showcase page.
