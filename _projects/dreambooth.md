@@ -5,7 +5,7 @@ description: Reimplementation of Dreambooth using Stable Diffusion
 img: assets/img/dreambooth.png
 redirect: https://github.com/Xinxi-Zhang/DreamBooth-Stable-Diffusion
 importance: 1
-category: research
+category: Research
 ---
 
 Every project has a beautiful feature showcase page.
