@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Started my new Teaching Assistant for CS 210 (Data Management for Data Science).
+Started my new Teaching Assistant for CS 535 (Machine Learning) and CS 210 (Data Management for Data Science)
